@@ -115,3 +115,4 @@ dmypy.json
 *.png
 *.jpg
 *.pt
+*.pth
